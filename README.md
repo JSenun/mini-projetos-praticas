@@ -21,7 +21,7 @@ Pequenos projetos para praticar HTML e CSS, usei os projetos que estão contidos
 
 <h2> Prints</h2>
 
- ![](C:\workspace\mini-projetos-front-end\grid\print1.PNG)
+ ![](https://github.com/JSenun/mini-projetos-praticas/blob/master/grid/print1.PNG)
 
 
 
