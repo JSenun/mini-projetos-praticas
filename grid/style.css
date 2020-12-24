@@ -1,0 +1,111 @@
+body {
+    background-color: #e6eff6;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.grid {
+    width: 510px;
+    height: 380px;
+    margin: 135px auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 170px 210px;
+    background: #e6eff6;
+      
+
+  }
+
+.box {
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.212); 
+    padding-left: 35px;
+    padding-top: 10px;
+}
+
+.a {
+    background-color:#ffffff;  
+    grid-column-start: 1; 
+    grid-column-end: 3;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
+
+.a h1 {
+    font-size: 15pt;
+    color: #2bb3b1;
+    padding: 5px 0px;
+}
+.a h3 {
+    font-size: 12pt;
+    color: #bfdf32;
+}
+.a p {
+    font-size: 11pt;
+    color: grey;
+    width: 90%;
+}
+
+.b {
+    background-color: #2bb3b1;
+    border-bottom-left-radius: 10px;
+    color: #ffffff;
+}
+
+.b h3 {
+    font-size: 15pt;  
+}
+
+.b p {
+    font-size: 12pt;
+}
+
+.b p b {
+    font-size: 24pt;
+}
+
+.b p i {
+    font-size: 11pt;
+    color: rgba(255, 255, 255, 0.774);
+}
+
+.button {
+    background-color:  #bfdf32;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    width: 185px;
+    padding: 10px;
+    font-size: 12pt;
+    font-weight: bold;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.349);
+}
+
+.button:hover {
+    background-color:  #bfdf32da;
+}
+
+.c {
+    background-color: #4abebd;
+    border-bottom-right-radius: 10px;
+    color: #ffffff;
+}
+
+.c h3 {
+    font-size: 15pt;
+}
+
+.c ul {
+    font-size: 0;
+}
+
+.organizador {
+    margin-bottom: 10px;
+}
+
+.itens {
+    font-size: 10pt;
+    margin: 3px;
+    color: #ffffff94;
+}
+
+
