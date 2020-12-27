@@ -1,4 +1,4 @@
-<h1>Mini Projetos para Praticar HTML e CSS</h1>
+<h1>Mini Projetos para Praticar</h1>
 
   
 
@@ -33,7 +33,7 @@ Pequenos projetos para praticar HTML e CSS, usei como base alguns projetos que e
 
 
 
-![](C:\workspace\mini-projetos-front-end\toDo\toDo.gif)    
+![](https://github.com/JSenun/mini-projetos-praticas/blob/master/toDo/toDo.gif)    
 
 
 
